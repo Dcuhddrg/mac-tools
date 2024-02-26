@@ -20,3 +20,7 @@ keka
 
 ## 视频播放器
 IINA
+
+## AI搜索
+poe
+coze
